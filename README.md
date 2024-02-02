@@ -24,3 +24,5 @@ Lessons for PHP developers
 4. Справочник по CSS: https://www.w3schools.com/css/default.asp
 5. Справочник по  JS: https://www.w3schools.com/js/default.asp
 6. ChatGPT: https://chat.openai.com/
+
+![image](https://github.com/undrown-off/PHP-lessons/assets/158590699/26502fb8-0409-4d5e-bb5c-68d97fa5adee)
